@@ -49,7 +49,7 @@ class CustomCategory03 extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
-              CustomText(
+              CustomTexttt(
                 textAlign: TextAlign.start,
                 text: text,
                 // text: mealList[index].name ?? '',
@@ -59,19 +59,19 @@ class CustomCategory03 extends StatelessWidget {
               (screenWidth(35)).ph,
               Row(
                 children: [
-                  CustomText(
+                  CustomTexttt(
                     textAlign: TextAlign.start,
                     text: 'Café  ',
                     textColor: AppColors.mainlightgrey,
                     // fontSize: ,
                   ),
-                  CustomText(
+                  CustomTexttt(
                     textAlign: TextAlign.start,
                     text: ' . ',
                     textColor: AppColors.mainOrangeColor,
                     // fontSize: ,
                   ),
-                  CustomText(
+                  CustomTexttt(
                     textAlign: TextAlign.start,
                     text: 'Western Food',
                     textColor: AppColors.mainlightgrey,
@@ -89,14 +89,14 @@ class CustomCategory03 extends StatelessWidget {
                     width: screenWidth(18),
                     height: screenWidth(18),
                   ),
-                  CustomText(
+                  CustomTexttt(
                     textAlign: TextAlign.start,
                     text: ' 4.9 ',
                     textColor: AppColors.mainOrangeColor,
                     // fontSize: ,
                   ),
                   (screenWidth(35)).pw,
-                  CustomText(
+                  CustomTexttt(
                     textAlign: TextAlign.start,
                     text: '(124 ratings)',
                     textColor: AppColors.mainlightgrey,

@@ -39,7 +39,7 @@ class CustomMeal extends StatelessWidget {
           padding: EdgeInsets.symmetric(
             horizontal: screenWidth(22),
           ),
-          child: CustomText(
+          child: CustomTexttt(
             textAlign: TextAlign.start,
             text: text,
             // text: mealList[index].name ?? '',
@@ -60,25 +60,25 @@ class CustomMeal extends StatelessWidget {
                 width: screenWidth(18),
                 height: screenWidth(18),
               ),
-              CustomText(
+              CustomTexttt(
                 textAlign: TextAlign.start,
                 text: ' 4.9 ',
                 textColor: AppColors.mainOrangeColor,
                 // fontSize: ,
               ),
-              CustomText(
+              CustomTexttt(
                 textAlign: TextAlign.start,
                 text: '(124 ratings) Café',
                 textColor: AppColors.mainlightgrey,
                 // fontSize: ,
               ),
-              CustomText(
+              CustomTexttt(
                 textAlign: TextAlign.start,
                 text: ' . ',
                 textColor: AppColors.mainOrangeColor,
                 // fontSize: ,
               ),
-              CustomText(
+              CustomTexttt(
                 textAlign: TextAlign.start,
                 text: 'Western Food',
                 textColor: AppColors.mainlightgrey,

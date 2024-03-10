@@ -41,7 +41,7 @@ class CustomCategory extends StatelessWidget {
             ),
           ),
           (screenHieght(100)).ph,
-          CustomText(
+          CustomTexttt(
             textAlign: TextAlign.start,
             text: text,
             textColor: AppColors.mainGrey,
