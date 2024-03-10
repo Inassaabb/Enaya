@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import '../colors.dart';
 
-class CustomText extends StatelessWidget {
-  const CustomText({
+class CustomTexttt extends StatelessWidget {
+  const CustomTexttt({
     super.key,
     this.textColor,
     this.fontSize,

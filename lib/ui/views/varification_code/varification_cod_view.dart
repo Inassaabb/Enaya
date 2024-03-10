@@ -40,21 +40,21 @@ class _VerificationCodeViewState extends State<VerificationCodeView> {
                 padding: EdgeInsets.symmetric(vertical: screenHieght(16)),
                 child: Column(
                   children: [
-                    CustomText(
+                    CustomTexttt(
                       fontSize: 40,
                       text: 'We sent an OTP to',
                       textAlign: TextAlign.start,
                       textColor: AppColors.mainblack,
                     ),
                     screenHieght(50).ph,
-                    CustomText(
+                    CustomTexttt(
                       fontSize: 30,
                       text: 'your email',
                       textAlign: TextAlign.start,
                       textColor: AppColors.mainblack,
                     ),
                     screenHieght(50).ph,
-                    CustomText(
+                    CustomTexttt(
                       text: 'Please check your email  *****.com',
                       textAlign: TextAlign.center,
                       textColor: AppColors.secondaryGreyColor,
